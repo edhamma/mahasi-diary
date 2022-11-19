@@ -1223,7 +1223,7 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  When I was noting while walking both my mind and body felt so light that I even wanted to run.
 
-**A:**  I felt like running, so I ran but I kept on noting. I could note all *(This is a description of LAHUTA -.Lightness of mind which is associated with PASSADHI)*.
+**A:**  I felt like running, so I ran but I kept on noting. I could note all *(This is a description of LAHUTA - Lightness of mind which is associated with PASSADHI)*.
 
 *Muduta* (pliancy of mind)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1841,7 +1841,7 @@ The yogi who had attained the Muncitu Kamyata Nana wanted to be free from Sankha
 
 **A:**  I found slight irritations but I could say everything was bad and miserable.
 
-**A:**  It was good to note, but I felt tense in the body and hands. The noting mind was heavy. My hands￹ and legs felt so heavy that I could not really move them. My nothing was very heavy and dull. I thought to myself that all these experiences of Dhamma were miserable sufferings. [:84:]
+**A:**  It was good to note, but I felt tense in the body and hands. The noting mind was heavy. My hands and legs felt so heavy that I could not really move them. My nothing was very heavy and dull. I thought to myself that all these experiences of Dhamma were miserable sufferings. [:84:]
 
 **A:**  When I was noting very well, I heard a buzzing sound. At first I thought it was good to note. It easily disappeared after I had noted. Later the sound became more distinct and grew louder and louder. I heard it very clearly and it was very difficult to note. The sound would not disappear after I noted.
 
@@ -2338,7 +2338,7 @@ First contemplate to reach to the discontinued noting stage very often. If there
 
 .. admonition:: Comment
 
-    If the power of nana was not strong enough, it might not be reached within one or two days. Previously, after noting about 4 to 10 times the yogi had always reached to the sublime state of Sankharupekkha Nana. But now even after one or two hours, it is not possible to reach to that stage. The yogi had to gather momentum starting from the Uddayabaya Nana level. The nana was maturing slowly step by step. Therefore the yogi had to note in a quite laxed manner and note rex??d￹ like in the early stages of contemplation. Some notings were not coinciding with the object. Sometimes the yogi's mind wandered. There could be vedana such as pain, there could be bright lights and visions.
+    If the power of nana was not strong enough, it might not be reached within one or two days. Previously, after noting about 4 to 10 times the yogi had always reached to the sublime state of Sankharupekkha Nana. But now even after one or two hours, it is not possible to reach to that stage. The yogi had to gather momentum starting from the Uddayabaya Nana level. The nana was maturing slowly step by step. Therefore the yogi had to note in a quite laxed manner and note rex???d like in the early stages of contemplation. Some notings were not coinciding with the object. Sometimes the yogi's mind wandered. There could be vedana such as pain, there could be bright lights and visions.
 
 
 

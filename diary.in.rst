@@ -1385,7 +1385,7 @@ A: While I was deep in contemplation, the whole body seemed to move upwards and 
 
 A: I found slight irritations but I could say everything was bad and miserable.
 
-A: It was good to note, but I felt tense in the body and hands. The noting mind was heavy. My hands￹ and legs felt so heavy that I could not really move them. My nothing was very heavy and dull. I thought to myself that all these experiences of Dhamma were miserable sufferings. [:84:]
+A: It was good to note, but I felt tense in the body and hands. The noting mind was heavy. My hands and legs felt so heavy that I could not really move them. My nothing was very heavy and dull. I thought to myself that all these experiences of Dhamma were miserable sufferings. [:84:]
 
 A: When I was noting very well, I heard a buzzing sound. At first I thought it was good to note. It easily disappeared after I had noted. Later the sound became more distinct and grew louder and louder. I heard it very clearly and it was very difficult to note. The sound would not disappear after I noted.
 
@@ -1772,7 +1772,7 @@ FOR EXAMPLE : THREE-DAY RESOLUTION PERIOD
 
 First contemplate to reach to the discontinued noting stage very often. If there were about 3 to five instances in one sitting, then one should make a resolution that "From now on within three days I do not wish to reach to the effect of KUSALA DHAMMA already achieved. I wish to reach to the higher KUSALA SPECIAL DHAMMA which I had not attained before. Then go on noting as usual; during contemplation the yogi might think, "Previously I used to reach to the stage where the noting was cut off 4 to 10 times within an hour. But now I could not even reach once."
 
-COMMENT: If the power of nana was not strong enough, it might not be reached within one or two days. Previously, after noting about 4 to 10 times the yogi had always reached to the sublime state of Sankharupekkha Nana. But now even after one or two hours, it is not possible to reach to that stage. The yogi had to gather momentum starting from the Uddayabaya Nana level. The nana was maturing slowly step by step. Therefore the yogi had to note in a quite laxed manner and note rex??d￹ like in the early stages of contemplation. Some notings were not coinciding with the object. Sometimes the yogi's mind wandered. There could be vedana such as pain, there could be bright lights and visions.
+COMMENT: If the power of nana was not strong enough, it might not be reached within one or two days. Previously, after noting about 4 to 10 times the yogi had always reached to the sublime state of Sankharupekkha Nana. But now even after one or two hours, it is not possible to reach to that stage. The yogi had to gather momentum starting from the Uddayabaya Nana level. The nana was maturing slowly step by step. Therefore the yogi had to note in a quite laxed manner and note rex???d like in the early stages of contemplation. Some notings were not coinciding with the object. Sometimes the yogi's mind wandered. There could be vedana such as pain, there could be bright lights and visions.
 
 But some hours/days later the yogi would reach to the Sankharupekkha nana like before. If the nana has not matured enough the yogi's [:110:] progress would be halted at that stage, and would never reach to the stage where the noting was cut off. Only when the nana is matured that the yogi could experience the swift and extraordinary noting like before.
 

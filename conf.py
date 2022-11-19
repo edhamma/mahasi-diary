@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "Meditation Teacher's Diary (or) Records"
-copyright = '???'
+copyright = 'authors'
 author = 'Mahasi Sayadaw, Saya Kyan, Saya Kywet'
 
 # The short X.Y version
@@ -92,7 +92,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = [] # '_static']
+html_static_path = ['_static']
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -143,7 +143,7 @@ epub_title = project
 epub_author = author
 epub_publisher = '[unknown]'
 epub_copyright = copyright
-epub_cover = ('_static/cover.jpg','epub-cover.html')
+epub_cover = ('_static/scan.jpg','epub-cover.html')
 epub_language='en'
 epub_basename='mahasi-meditation-teachers-diary'
 epub_use_index=False
