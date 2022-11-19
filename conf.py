@@ -131,7 +131,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'MahasiDiary.tex', project,
+    (master_doc, 'MahasiMeditationTeachersDiary.tex', project,
      author, 'manual'),
 ]
 
@@ -145,12 +145,12 @@ epub_publisher = '[unknown]'
 epub_copyright = copyright
 epub_cover = ('_static/cover.jpg','epub-cover.html')
 epub_language='en'
-epub_basename='mahasi-sayadaw-meditation-teachers-diary'
+epub_basename='mahasi-meditation-teachers-diary'
 epub_use_index=False
 epub_scheme='URL'
 epub_identifier = 'https://eudoxos.github.io/mahasi-diary/'
 # A unique identification for the text.
-epub_uid = 'mahasi-sayadaw-meditation-teachers-diary'
+epub_uid = 'mahasi-meditation-teachers-diary'
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
