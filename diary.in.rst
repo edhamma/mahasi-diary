@@ -863,7 +863,7 @@ A: while I was walking and 'noting as lifting, ,pushing. placing, I felt very li
 
 A: When I was noting while walking both my mind and body felt so light that I even wanted to run.
 
-A: I felt like running, so I ran but I kept on noting. I could note all (This is a description of LAHUTA -.Lightness of mind which is associated with PASSADHI).
+A: I felt like running, so I ran but I kept on noting. I could note all (This is a description of LAHUTA - Lightness of mind which is associated with PASSADHI).
 
 *Muduta* (pliancy of mind)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
