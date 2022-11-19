@@ -2247,9 +2247,9 @@ ENCOURAGE LIKE THIS AND TELL THEM TO GO ON NOTING:
 
     The yogi had a very clean Sadda (faith) and a very strong Sukka (Pleasant Sensation) for a long time due to the force of Magga Phala. It is not possible to note those minds.
 
+    Even if the yogi had noted, the current nana was only Uddayabaya Nana. Since it was not so strong the yogi could not know clearly of each part. Therefore do not suggest the yogi to note that kind of mind. Tell them to note as usual in continuity only after the slackened (clean Sadda and strong Sukkha bearing) mind had gone.
 
 
-Even if the yogi had noted, the current nana was only Uddayabaya Nana. Since it was not so strong the yogi could not know clearly of each part. Therefore do not suggest the yogi to note that kind of mind. Tell them to note as usual in continuity only after the slackened (clean Sadda and strong Sukkha bearing) mind had gone.
 
 **A:**  After the noting was interrupted I did not know what was happening in my mind. It was as if I was floating. I felt sort of happy, I felt thrilled and flustered. It was impossible to note.
 

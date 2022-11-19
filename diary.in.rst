@@ -1697,9 +1697,7 @@ ENCOURAGE LIKE THIS AND TELL THEM TO GO ON NOTING:
 
 A: It was very peaceful, blissful and very clear. There was nothing [:104:] to note. It seemed as if the noting mind was searching for something to note. It was like that for quite a long time about half an hour or about an hour. It was impossible to note and I did not note at all. But even if 1 had not noted the mind was not led astray, there were no defilements. It was as if the noting mind was alone in the middle of a big field. It was very clear, empty and clean. I felt ever so good. It was extremely blissful.
 
-COMMENT: The yogi had a very clean Sadda (faith) and a very strong Sukka (Pleasant Sensation) for a long time due to the force of Magga Phala. It is not possible to note those minds.
-
-Even if the yogi had noted, the current nana was only Uddayabaya Nana. Since it was not so strong the yogi could not know clearly of each part. Therefore do not suggest the yogi to note that kind of mind. Tell them to note as usual in continuity only after the slackened (clean Sadda and strong Sukkha bearing) mind had gone.
+COMMENT: The yogi had a very clean Sadda (faith) and a very strong Sukka (Pleasant Sensation) for a long time due to the force of Magga Phala. It is not possible to note those minds. | Even if the yogi had noted, the current nana was only Uddayabaya Nana. Since it was not so strong the yogi could not know clearly of each part. Therefore do not suggest the yogi to note that kind of mind. Tell them to note as usual in continuity only after the slackened (clean Sadda and strong Sukkha bearing) mind had gone.
 
 A: After the noting was interrupted I did not know what was happening in my mind. It was as if I was floating. I felt sort of happy, I felt thrilled and flustered. It was impossible to note.
 
