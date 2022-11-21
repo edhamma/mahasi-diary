@@ -183,7 +183,7 @@ Some would answer thus:-
 
 Some would say thus:-
 
-**A:**  While I could note the rising and falling very clearly, the mind did not wander. When the mind was wandering. the rising and falling was not evident. Only because I could not note [:9:] well on the rising and falling, the mind went elsewhere. (Clear Knowledge)
+**A:**  While I could note the rising and falling very clearly, the mind did not wander. When the mind was wandering. the rising and falling was not evident. Only because I could not note [:9:] well on the rising and falling, the mind went elsewhere. *(Clear Knowledge)*
 
 **Q:**  When you have noted the wandering mind and went back to rising and falling could you say you could contemplate easily and accurately?
 
@@ -483,9 +483,9 @@ The yogi who had contemplated as usual after the various objects and different t
 
 
 
-**A:**  The noting was like throwing stone or stick at the fruits on the tree. (Here the rising and falling were compared to the fruits and the stone was like the noting mind. The hitting was the knowing awareness.)
+**A:**  The noting was like throwing stone or stick at the fruits on the tree. *(Here the rising and falling were compared to the fruits and the stone was like the noting mind. The hitting was the knowing awareness.)*
 
-**A:**  It was like playing drums which were surrounding me. (Here the drums would be the object/target and the hand playing on them was like the noting mind.)
+**A:**  It was like playing drums which were surrounding me. *(Here the drums would be the object/target and the hand playing on them was like the noting mind.)*
 
 **A:**  When I was going to sleep, I noted as "sleeping", I felt as if a log was laid down and I did not know anything. I could not move, the mind which was noting as "sleeping" went on noting.
 
@@ -1019,7 +1019,7 @@ Sometimes when I missed noting, I could even note as "missing". I could note fas
 
 
 
-**A:**  Previously, when I felt good in my contemplation it was nothing like this. Now it is really good. I even thought if I had to note until these good notings disappear I will not bother to note them. *(Yogi said this because he has got a clinging on Craving)*.
+**A:**  Previously, when I felt good in my contemplation it was nothing like this. Now it is really good. I even thought if I had to note until these good notings disappear I will not bother to note them. *(Yogi said this because he has got a clinging on Craving.)*
 
 SOME YOGI WOULD TELL OTHERS:- I do not think there is anyone who could note as well as me. I do not even think the teachers themselves had this sort of enjoyable noting. *(Yogi said this with a clinging to Pride.)*
 
@@ -1046,7 +1046,7 @@ Now I found suffering pain inside my body occurring continuously. Previously I t
 
 **A:**  Before I meditated, I had heard other people say that just noting on "rising" "falling" "stretching" etc., would not lead to vipassana insight, and Anicca, Dukkha and Anatta would not be known. I had thought like that too. Now I understand about this practise and I am able to appreciate it. Those people who said Vipassana insight could not be gained by just noting did not know anything about it. They were all totally wrong. This practise of noting is an excellent work. Each time one noted one could discriminate each object clearly from the other. The way objects appeared and disappeared was clear as if they were held out by hand. The impermanent, suffering and ego-less nature of objects were known everytime I noted. I wanted to go and tell about my experiences to those people who said insight would not be gained by just noting.
 
-**A:**  Previously when I was noting on hearing, each time I noted, only the sound ended. *(Yogi meant the sound stopped and disintergrated.)* Later on whenever I noted on hearing the various sounds, the moment the sound ended, I found that I had finished noting. The timing was very exact *(yogi meant the sound and the noting ended together)*. Whenever I noted ardently and accurately nothing lasted. All the objects I noted were thrust away, they always disappeared.
+**A:**  Previously when I was noting on hearing, each time I noted, only the sound ended. *(Yogi meant the sound stopped and disintergrated.)* Later on whenever I noted on hearing the various sounds, the moment the sound ended, I found that I had finished noting. The timing was very exact *(yogi meant the sound and the noting ended together.)* Whenever I noted ardently and accurately nothing lasted. All the objects I noted were thrust away, they always disappeared.
 
 **A:**  Whenever I noted rising, falling, sitting, touching, I knew very distinctly and clearly of their individual occurrences. When my noting was good like that, I gained knowledge thus:-
 
@@ -1112,26 +1112,26 @@ Yogis described the brightness according to their individual expetiences which w
 
 **A:**  When I saw the bright lights I was quite pleased, I was even enjoying it.
 
-**A:**  As instructed I was noting on whatever object appeared, but to be quite honest I would not like the, brightness to disappear. *(Yogi was clinging to TANHA, Craving)*.
+**A:**  As instructed I was noting on whatever object appeared, but to be quite honest I would not like the, brightness to disappear. *(Yogi was clinging to TANHA, Craving.)*
 
-**A:**  Perhaps I was the only one to experience such brightness. I do not think the others had had such an extraordinary experience like mine. *(Yogi was clinging to MANA. Pride)*.
+**A:**  Perhaps I was the only one to experience such brightness. I do not think the others had had such an extraordinary experience like mine. *(Yogi was clinging to MANA. Pride.)*
 
-**A:**  I am full of bright lights, these must be radiating from my body. *(Yogi was clinging to Ditthi, false doctrine)*.
+**A:**  I am full of bright lights, these must be radiating from my body. *(Yogi was clinging to Ditthi, false doctrine.)*
 
-**A:**  The brightness was Nibbana, the mind that noted it was Magga. There was brightness because I attained an outstanding Dhamma. *(Yogi was clinging to wrong MAGGA, not the Path)*.
+**A:**  The brightness was Nibbana, the mind that noted it was Magga. There was brightness because I attained an outstanding Dhamma. *(Yogi was clinging to wrong MAGGA, not the Path.)*
 
 *Piti* (joy)
 -------------
 
-**A:**  While my noting was swift and the contemplation was good, I felt something seeped down from my head through my body to my legs. It was a soothing sensation which flashed off and on. Sometimes when my noting was good, a soothing chill passed through my body and I felt as if I was swung gently. *(Yogi was experiencing KHUDDIKA PITI, Minor Joy)*.
+**A:**  While my noting was swift and the contemplation was good, I felt something seeped down from my head through my body to my legs. It was a soothing sensation which flashed off and on. Sometimes when my noting was good, a soothing chill passed through my body and I felt as if I was swung gently. *(Yogi was experiencing KHUDDIKA PITI, Minor Joy.)*
 
-**A:**  Sometimes I felt continuous vibrations, cool thrills and like being swung gently again and again. *(Yogi was experiencing KHANIKA PITI, Momentary Joy)*.
+**A:**  Sometimes I felt continuous vibrations, cool thrills and like being swung gently again and again. *(Yogi was experiencing KHANIKA PITI, Momentary Joy.)*
 
 **A:**  Sometimes I felt the soothing coolness and vibrations coming up from the legs and when they reach up to the chest, they disappeared. Sometimes it reached up to the throat, head, and disappeared. [:50:]
 
 **A:**  Sometimes I felt as if all of a sudden I was showered by coldness (or) hotness and then it disappeared.
 
-**A:**  Sometimes something fluttered up from inside until my whole body was full of flickering feelings, then everything cleared up (This was a description of OKKANTIKA PITI = showering joy).
+**A:**  Sometimes something fluttered up from inside until my whole body was full of flickering feelings, then everything cleared up. *(This was a description of OKKANTIKA PITI = showering joy)*
 
 **A:**  Sometimes I felt my body was bloated, then I felt as if I was sleeping on the waves, or swung on a hammock, it was nice.
 
@@ -1149,7 +1149,7 @@ Yogis described the brightness according to their individual expetiences which w
 
 **A:**  I felt I was asleep. but I was not actually asleep.
 
-**A:**  When I was lying down and noting I felt as if my body was not touching the bed. My body was moving back and forth. It was like being rocked gently. (All these descriptions meant OKKANTIKA PITI i.e., showering joy.)
+**A:**  When I was lying down and noting I felt as if my body was not touching the bed. My body was moving back and forth. It was like being rocked gently. *(All these descriptions meant OKKANTIKA PITI i.e., showering joy.)*
 
 **A:**  While I was lying down I put both hands on my belly and placed one foot on top of other, I noted "rising" "falling" "lying" "touching". When my noting was very good, I felt gentle vibrations about 3 or 4 times. Then suddenly I felt as if both of my hands were pulled out and dropped on the floor. Also my foot which was lying on top of the other was thrust down to the floor.
 
@@ -1169,29 +1169,29 @@ Yogis described the brightness according to their individual expetiences which w
 
 **A:**  I only felt jerks on my mouth. Sometimes the closed mouth was strung open so that it was gaping by itself.
 
-**A:**  Sometimes my upper and lower set of teeth chattered. *(The yogi's experience was UBBEGA PITI = uplifting happiness)*.
+**A:**  Sometimes my upper and lower set of teeth chattered. *(The yogi's experience was UBBEGA PITI = uplifting happiness.)*
 
 **A:**  When I was noting very well, something heaved up inside my body and stayed still in the chest. Sometimes it went out through the mouth, my whole body felt as if some sort of soothing vibration was passing through me. That sensation was so pleasant I did not want to open my eyes, I did not even want a flicker of my eyelids to happen: In my whole life I had never experienced this sort of pleasant sensation. It was. sheer luxury.
 
 **A:**  There was slight vibrations in my body, then the whole body felt as if it was receiving a soothing vibration.
 
-**A:**  After contemplating for a while, there were flashes of subtle vibrations inside my body. My whole body felt so nice with soothing [:52:] and gentle thrill and rockings l just could not describe it fully. It was really good. *(The yogi had felt PHARANA PITI - pervading (rapturous)* joy ).
+**A:**  After contemplating for a while, there were flashes of subtle vibrations inside my body. My whole body felt so nice with soothing [:52:] and gentle thrill and rockings l just could not describe it fully. It was really good. *(The yogi had felt PHARANA PITI - pervading (rapturous) joy.)*
 
 **A:**  I felt soothing thrills from my waist and above.
 
 **A:**  I felt a thrill running from my waist downwards.
 
-**A:**  Sometimes the upper and sometimes the lower part of the body felt a soothing thrill. *(The yogi meant KHUDDIKA PITI - Minor joy)*.
+**A:**  Sometimes the upper and sometimes the lower part of the body felt a soothing thrill. *(The yogi meant KHUDDIKA PITI - Minor joy.)*
 
 **A:**  The thrills I felt in my body and in my chest was very pleasant. I just felt so good. It was not just nice, it was really Marvelous. If I were to note this until it disappeared, I would not like to go on noting.
 
-**A:**  I felt as if I was swaying gently, many many times. It was really good. *(The yogi was clinging to craving)*.
+**A:**  I felt as if I was swaying gently, many many times. It was really good. *(The yogi was clinging to craving.)*
 
-**A:**  The endless thrills rippling in my body was so good, I did not think the others felt as good as me. *(The yogi was clinging to pride )*
+**A:**  The endless thrills rippling in my body was so good, I did not think the others felt as good as me. *(The yogi was clinging to pride.)*
 
-**A:**  The soothing thrills were from my own body. *(The yogi was clinging to Ditthi, false doctrine)*.
+**A:**  The soothing thrills were from my own body. *(The yogi was clinging to Ditthi, false doctrine.)*
 
-**A:**  What some people describe as the Dhamma being good, discovering Dhamma, attaining-special Dhamma must be referred to this sort of pleasant, thrilling sensations. *(This yogi is clinging to wrong MAGGA i.e., not the Path)*.
+**A:**  What some people describe as the Dhamma being good, discovering Dhamma, attaining-special Dhamma must be referred to this sort of pleasant, thrilling sensations. *(This yogi is clinging to wrong MAGGA i.e., not the Path.)*
 
 *Passadhi* (tranquility)
 ------------------------
@@ -1208,7 +1208,7 @@ Yogis described the brightness according to their individual expetiences which w
 
 **A:**  I was feeling peaceful and pleasant in my mind and body. I stayed on like that for quite a while.
 
-A.: I did not have to note as ardently as before. My mind did not wander at all. I contemplated for a long time without moving and without loosing continuity. My noting was very good although I did not have to note with special care. My mind was very still and stayed on as peaceful as ever. *(This is the description of PASSADHI - Tranquility)*.
+A.: I did not have to note as ardently as before. My mind did not wander at all. I contemplated for a long time without moving and without loosing continuity. My noting was very good although I did not have to note with special care. My mind was very still and stayed on as peaceful as ever. *(This is the description of PASSADHI - Tranquility.)*
 
 *Lahuta* (lightness of mind)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1223,7 +1223,7 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  When I was noting while walking both my mind and body felt so light that I even wanted to run.
 
-**A:**  I felt like running, so I ran but I kept on noting. I could note all *(This is a description of LAHUTA - Lightness of mind which is associated with PASSADHI)*.
+**A:**  I felt like running, so I ran but I kept on noting. I could note all *(This is a description of LAHUTA - Lightness of mind which is associated with PASSADHI.)*
 
 *Muduta* (pliancy of mind)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1232,12 +1232,12 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  Previously if I wanted my mind to stay in one place, it would not stay, the mind went out as it .wished. Now my mind was automatically noting on each object that appeared. My mind stayed where I wanted it to stay and it was very tamed and gentle.
 
-**A:**  My mind and - body were very gentle in a sublime state. I did not want to meet anybody, I did not feel like talking, I did not want to hear other people talking. I did not want to see or hear anything. I just wanted to stay in the meditating hall and go on contemplating quietly. *(The yogi was explaining about MUDUTA which is parallel to tranquility PASSADHI)*
+**A:**  My mind and - body were very gentle in a sublime state. I did not want to meet anybody, I did not feel like talking, I did not want to hear other people talking. I did not want to see or hear anything. I just wanted to stay in the meditating hall and go on contemplating quietly. *(The yogi was explaining about MUDUTA which is parallel to tranquility PASSADHI.)*
 
 *Kammannatta* (workableness or serviceableness)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**A:**  Now both my mind and body were very strong and consolidated. I could stay still for a long time without changing posture. My mind did not warder, I did not forget to note, nor I was slackened in noting. I could note in continuity for a long time. *(The yogi's description was KAMANNATTA (parallel to PASSADHI)* )
+**A:**  Now both my mind and body were very strong and consolidated. I could stay still for a long time without changing posture. My mind did not warder, I did not forget to note, nor I was slackened in noting. I could note in continuity for a long time. *(The yogi's description was KAMANNATTA (parallel to PASSADHI).)*
 
 *Pagunnata* (proficiency or skilfulness)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1249,7 +1249,7 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 .. admonition:: Comment
 
-    Some people who had lived a rough life after reaches this level of knowledge would says "Previously I had done bad deeds because was ignorant of this knowledge. The Dhamma is very gentle. In future I would never commit bad unwholesome deeds, "AKUSALAS" again. This sort of yogi would admit honestly to their teacher about their past actions. *(This is comparable to PASSADHI)*.
+    Some people who had lived a rough life after reaches this level of knowledge would says "Previously I had done bad deeds because was ignorant of this knowledge. The Dhamma is very gentle. In future I would never commit bad unwholesome deeds, "AKUSALAS" again. This sort of yogi would admit honestly to their teacher about their past actions. *(This is comparable to PASSADHI.)*
 
 
 
@@ -1270,13 +1270,13 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  While I was noting, my heart suddenly jumped up a bit and I felt a pleasant soothing thrill which enriched pre-existing feeling of pleasantness. Sometimes there was a long chain of rhytmic beats and there was a continuos flow of thrills. It was very nice to note. Sometimes the waves of thrills were so good I did not want to go on noting.
 
-**A:**  It was so good while noting, I felt very happy. Now I really enjoy my contemplation. Now everytime I noted I felt really good. Now I do not want to let go of my noting. I never felt happy like this before. I was even afraid I would go crazy by being overjoyed. *(The yogi's description was SUKHA UPPAKILASA (Happiness causing impurity of mind)*.
+**A:**  It was so good while noting, I felt very happy. Now I really enjoy my contemplation. Now everytime I noted I felt really good. Now I do not want to let go of my noting. I never felt happy like this before. I was even afraid I would go crazy by being overjoyed. *(The yogi's description was SUKHA UPPAKILASA (Happiness causing impurity of mind).)*
 
-**A:**  It was good to note and I was enjoying the feeling of richness in my mind and body. They were very good. I never felt like this before. I could enjoy it only now. I would not like to note until they disappear. I noted the feeling only because my teacher had told me to note. I felt really wonderful, it was great. I want to enjoy this feeling of peaceful richness for at least a day. *(The yogi was clinging to craving)*.
+**A:**  It was good to note and I was enjoying the feeling of richness in my mind and body. They were very good. I never felt like this before. I could enjoy it only now. I would not like to note until they disappear. I noted the feeling only because my teacher had told me to note. I felt really wonderful, it was great. I want to enjoy this feeling of peaceful richness for at least a day. *(The yogi was clinging to craving.)*
 
-**A:**  I wonder if the teachers had experienced like this *(The yogi was clinging to pride)*. [:56:]
+**A:**  I wonder if the teachers had experienced like this *(The yogi was clinging to pride.)* [:56:]
 
-**A:**  I am experiencing the rich and pleasant feeling like I had never felt before. I am full of rich feelings, I am enjoying all of them. I am very happy. *(Yogi was clinging to false doctrine DITTHI)*.
+**A:**  I am experiencing the rich and pleasant feeling like I had never felt before. I am full of rich feelings, I am enjoying all of them. I am very happy. *(Yogi was clinging to false doctrine DITTHI.)*
 
 .. admonition:: Comment
 
@@ -1284,7 +1284,7 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 
 
-**A:**  This must be the special Dhamma, I do not think there is anything which is better or more peaceful than this feeling. *(Yogi's description showed he was clinging to wrong Magga, not the Path)*.
+**A:**  This must be the special Dhamma, I do not think there is anything which is better or more peaceful than this feeling. *(Yogi's description showed he was clinging to wrong Magga, not the Path.)*
 
 *Addhimokkha saddha* (determined faith)
 ---------------------------------------
@@ -1297,7 +1297,7 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  Now I know the impermanence or the arising and passing away of the mental and physical phenomena. It was like what Buddha said. Buddha knew the truth about everything, I respected Buddha more than ever.
 
-**A:**  The Dhamma I am experiencing now is the true Dhamma. I should practice this continuously for many months and years; it would be better still if I could practice it my whole life. Even though I had practised for a few days my contemplation was good. I now have more respect and faith in this practise of Dhamma which produces immediate results. (SANDITTHIKA DHAMMA). [:57:]
+**A:**  The Dhamma I am experiencing now is the true Dhamma. I should practice this continuously for many months and years; it would be better still if I could practice it my whole life. Even though I had practised for a few days my contemplation was good. I now have more respect and faith in this practise of Dhamma which produces immediate results. *(SANDITTHIKA DHAMMA)* [:57:]
 
 **A:**  Now I can appreciate this Dhamma very well. Now I truly respect and believe in Dhamma. People who said that just noting on the rising, falling, bending, stretching, would not make one understand about ANNICCA, DUKKHA AND ANATTA were ignorant of the truth. Now I really like this Dhamma. I am going to practise this throughout my life; even if I were to die I would practise.
 
@@ -1307,7 +1307,7 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  I have never known this kind of Dhamma and yet I could understand about the true nature of mind and matter, the arising and passing away phenomena; the ANICCA, DUKKHA AND ANATTA clearly. This is because I had the chance to practise according to the instructions given by Mahasi Sayadaw Payagyi. If I had not had this chance I would never experience this kind of Dhamma. Sayadaw Payagyi himself had practised this difficult and profound Dhamma and had worked out instructions which could be understood by everyone. I was thinking of the enormous respect and gratitude I felt towards Sayadaw Payagyi for quite a long time and quite often too.
 
-**A:**  I contemplated day and night but when the time come for discussion with my teacher I could not relate all of my experiences in detail and not in a systematic way. But the teacher seemed to know the facts which [:58:] I had overlooked in the description of my experiences. The teacher seemed to know what I could note and what I had missed. The teacher must have practised and accomplished the knowledge fully. That must be she reason why he could know all the stages I had been going. through. Then I felt very respectful towards my teacher. I went on admiring my teacher as to how much he knew, how well he could help me when I was wrong, also how patient he was in explaining to me about the things that I did not understand and how he was helping me to make progress in contemplation. I thought to myself that if it were not for the teacher, it would be impossible for me to go on with this practise; I felt forever indebted to the teacher. I wondered how I could repay the gratitude I owe to my teacher. I resolved to do this by all means. *(Yogi felt very grateful to the meditation teacher and expressed his feeling in the above way)*.
+**A:**  I contemplated day and night but when the time come for discussion with my teacher I could not relate all of my experiences in detail and not in a systematic way. But the teacher seemed to know the facts which [:58:] I had overlooked in the description of my experiences. The teacher seemed to know what I could note and what I had missed. The teacher must have practised and accomplished the knowledge fully. That must be she reason why he could know all the stages I had been going. through. Then I felt very respectful towards my teacher. I went on admiring my teacher as to how much he knew, how well he could help me when I was wrong, also how patient he was in explaining to me about the things that I did not understand and how he was helping me to make progress in contemplation. I thought to myself that if it were not for the teacher, it would be impossible for me to go on with this practise; I felt forever indebted to the teacher. I wondered how I could repay the gratitude I owe to my teacher. I resolved to do this by all means. *(Yogi felt very grateful to the meditation teacher and expressed his feeling in the above way.)*
 
 **A:**  I felt respectful and grateful to my teacher I kept on seeing him and I had to note "seeing" "seeing" for quite often. My mind often went to my teacher so I had to note "respecting" "respecting" quite often.
 
@@ -1321,13 +1321,13 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 
 
-**A:**  Previously I did riot know how to cultivate the respect for Buddha, Dhamma, Sanga and the teachers. But now I really know how it is like to feel respectful. I feel happy just to be respectful. Actually the feeling of respect is a good deed (Kusala). So it is appreciable. Why should I note that feeling. Some people had to try hard to appreciate the feeling of respect. Why should the teachers tell us to note until this feeling is gone. Now everytime I noted my mind was clear. I felt good. *(Yogi was clinging to Tanha, craving)*.
+**A:**  Previously I did riot know how to cultivate the respect for Buddha, Dhamma, Sanga and the teachers. But now I really know how it is like to feel respectful. I feel happy just to be respectful. Actually the feeling of respect is a good deed (Kusala). So it is appreciable. Why should I note that feeling. Some people had to try hard to appreciate the feeling of respect. Why should the teachers tell us to note until this feeling is gone. Now everytime I noted my mind was clear. I felt good. *(Yogi was clinging to Tanha, craving.)*
 
-**A:**  I do not think the others felt as respectful as me. I think have more faith than the others. *(Yogi was clinging to MANA, pride)*.
+**A:**  I do not think the others felt as respectful as me. I think have more faith than the others. *(Yogi was clinging to MANA, pride.)*
 
-**A:**  I have full faith in Dhamma, my mind is clear, I now how to appreciate the feeling of respect. *(Yogi was clinging to DITTHI, false doctrine)*.
+**A:**  I have full faith in Dhamma, my mind is clear, I now how to appreciate the feeling of respect. *(Yogi was clinging to DITTHI, false doctrine.)*
 
-**A:**  When my mind was clear, I must be experiencing the real Dhamma. I think the special Dhamma must be able to make one's mind clear. The stable feeling of respect I am experiencing must be the special Dhamma. *(Yogi was clinging to wrong Magga, not the Path)*.
+**A:**  When my mind was clear, I must be experiencing the real Dhamma. I think the special Dhamma must be able to make one's mind clear. The stable feeling of respect I am experiencing must be the special Dhamma. *(Yogi was clinging to wrong Magga, not the Path.)*
 
 *Paggama viriya* (ascending, increasing effort)
 ------------------------------------------------
@@ -1336,30 +1336,30 @@ A.: My mind and my body were very light and swift. I was noting very peacefully 
 
 **A:**  It was very good to contemplate on various objects. I was not lazy at all. I could not help noting continuously.
 
-**A:**  Now my effort in contemplation is not like before. I made more effort. I did not rest at all. I just wanted to make more and more effort. *(Yogi had PAGGAHA UPPAKILASA, Impurity of mind due to over-energetic effort)*.
+**A:**  Now my effort in contemplation is not like before. I made more effort. I did not rest at all. I just wanted to make more and more effort. *(Yogi had PAGGAHA UPPAKILASA, Impurity of mind due to over-energetic effort.)*
 
 .. admonition:: Comment
 
-    The yogi liked the ability to note easily and continuously without much effort, without being lazy and could note strongly. *(Yogi was clinging to Tanha, craving)*. [:60:]
+    The yogi liked the ability to note easily and continuously without much effort, without being lazy and could note strongly. *(Yogi was clinging to Tanha, craving.)* [:60:]
 
 
 
-**A:**  I could contemplate better than others. I do not think there would be others who could contemplate as well as me. *(Yogi was clinging to MANA, pride)*.
+**A:**  I could contemplate better than others. I do not think there would be others who could contemplate as well as me. *(Yogi was clinging to MANA, pride.)*
 
-**A:**  I could contemplate continuously, I was not lazy, my effort in contemplation was perfect. *(Yogi was clinging to DITTHI, false doctrine)*.
+**A:**  I could contemplate continuously, I was not lazy, my effort in contemplation was perfect. *(Yogi was clinging to DITTHI, false doctrine.)*
 
-**A:**  The fact that I could note in continuity must be the special Dhamma. When one achieved that special Dhamma, one would never be lazy and could note continuously. *(Yogi was clinging to wrong Magga, not the Path)*.
+**A:**  The fact that I could note in continuity must be the special Dhamma. When one achieved that special Dhamma, one would never be lazy and could note continuously. *(Yogi was clinging to wrong Magga, not the Path.)*
 
 *Uppekkha* (equanimity)
 -----------------------
 
 **A:**  In the beginning even though I tried hard in contemplation I could not note the objects accurately. Most of the time I missed the target in my notings. I did not know clearly and distinctly about each object. Now whatever object appeared I could note instantly and accurately without having to make a special effort. I did not miss anything. Each noting was a separate entity. When I was noting on various sounds, I notice that as soon as the sound ended I had finished noting. It was a perfect timing. Previously I thought about the beginning and end of the arising and passing away of the objects, I also made a mental analysis of Anicca Dukkha and Anatta. But I never understood clearly. Now I did not even have to think, just by noting I came to know very clearly about the beginning and end, the arising and passing away, the appearances and disappearances, Anicca, Dukkha and Anatta.
 
-*(Yogi was reflecting on vipassana with AVIJJA NUPEKHA)*.
+*(Yogi was reflecting on vipassana with AVIJJA NUPEKHA.)*
 
 **A:**  I do not think that my contemplation at the moment is not as good as before. Nor could I say that it was better. There was no need to be lazy, nor happy. It was neither hateful nor sad. I could not say it was enjoyable or not enjoyable. It was just a neutral feeling. I was simply noting well. Each time I noted the object was clear and well focussed. I was contemplating very quietly and very still.
 
-*(Yogi was experiencing TATRA MIJJHATTATA UPPEKKHA. - Impartial Indifference or Equanimity of mind on objects)*.
+*(Yogi was experiencing TATRA MIJJHATTATA UPPEKKHA. - Impartial Indifference or Equanimity of mind on objects.)*
 
 .. admonition:: Comment
 
@@ -1378,7 +1378,7 @@ Nikanti
 
 **A:**  I was very happy because I felt very good to note and I saw bright lights. I was experiencing the sort of happiness which I had never experienced before. No matter what the teacher said, I am afraid this feeling would disappear, and I would hate to part with this kind of happiness. I would not like to note this wonderful happiness until it disappeared. I just wanted to enjoy it fully, even if it was for a day.
 
-**A:**  After experiencing the bright lights it was very good to note on all the different objects. Suddenly, I felt really peaceful and comfortable. It had a cooling and blissful effect on me. Then I felt happy, as I thought of nothing that happy mind, there was nothing to note at all. Then I thought, "Oh, I had lost all my notings; everything was gone, the good experience had finished, things have come to an end and I did not have anything to do anymore". After thinking like that [:62:] I suggested my fellow yogis to work hard with more effort in contemplation. I told them to be determined, to contemplate hard day and night, even if they have to face death. *(This is NIKANTI UPPAKILASA, impurity of mind due to the appreciation of a good contemplation)*.
+**A:**  After experiencing the bright lights it was very good to note on all the different objects. Suddenly, I felt really peaceful and comfortable. It had a cooling and blissful effect on me. Then I felt happy, as I thought of nothing that happy mind, there was nothing to note at all. Then I thought, "Oh, I had lost all my notings; everything was gone, the good experience had finished, things have come to an end and I did not have anything to do anymore". After thinking like that [:62:] I suggested my fellow yogis to work hard with more effort in contemplation. I told them to be determined, to contemplate hard day and night, even if they have to face death. *(This is NIKANTI UPPAKILASA, impurity of mind due to the appreciation of a good contemplation.)*
 
 .. admonition:: Comment
 
@@ -1440,7 +1440,7 @@ Some yogi said during good contemplation they were sort of unconscious but later
 
 The yogis should be made to realise that this sort of experience was not the end and further noting should be done continuously. Once the yogi realised this either through his own knowledge or by his teacher's prompting, yogi should go on contemplating as before. Then the yogi could overcome the Uppakilasas. After that yogi's noting would be a stable and clear process. When the noting became good like that some would say, "What I thought previously as good notings were just rough ones. Only now I know a real good one. Each time I noted I could focus: on each object separately. I knew very clearly and distinctly about each noting. My mind did not go anywhere. My mind just fell straight into the target and stayed there precisely and firmly. Previously what I had thought of as a good noting was nothing like this. At one time I even argued with my teacher after I had a very good contemplation. Now I know I was wrong; now I feel very grateful to my teacher."
 
-After about one or two days later,
+After about one or two days later:
 
 **A:**  I could contemplate better day by day. My knowledge had progressed. Whenever I noted on appearing objects such as rising, falling bending, touching, pain or other bodily sensations, I could note accurately and clearly. As soon as the objects appeared I noted and they disappeared. Previously I had thought the objects came sliding in from somewhere else. But how I know the objects began and ended on the spot. Previously I thought objects moved to other places. Now each time I noted, I know that as soon as I noted the appearing object, they disappeared on the spot. Each noting brought me a clear-cut [:66:] knowledge.
 
@@ -1489,7 +1489,7 @@ The yogi is said to be free from UPPAKILASA (Impurity of mind) and had reached t
 
 **A:**  I was noting quite well, then I found my noting pace became sparsed. After that I could not find anything, my body just disappeared and I had to go on noting on the usual objects. The objects and the noting fitted very well but I felt as if my noting was not effective. I felt as if I was not satisfied with my slackened noting.
 
-**A:**  The objects appeared and disappeared when I noted. The object and my mind were pairing off nicely. It was very good to note. But I was able to see the appearance of objects only sometimes. Most of the time I saw only the disappearing objects. My noting seemed disconnected. I wondered why it became slackened like this *(yogi heaved a sigh)*.
+**A:**  The objects appeared and disappeared when I noted. The object and my mind were pairing off nicely. It was very good to note. But I was able to see the appearance of objects only sometimes. Most of the time I saw only the disappearing objects. My noting seemed disconnected. I wondered why it became slackened like this *(yogi heaved a sigh.)*
 
 **A:**  Whenever I noted it was like throwing one stone after another into the water. Each time an object appeared, I noted: it was as if my mind ran straight into the object like throwing a dart. I was aware of the appearance and disappearance of the objects. From such a good state, things began to become spoiled. It was as if I threw a tuft of grass on to the water surface, the noting was not precise and not penetrating anymore. It seemed like a lax and flippant noting. [:68:]
 
@@ -1519,7 +1519,7 @@ The objects did not appear to be clear-cut, it was a slippery noting. My noting 
 
 
 
-**A:**  Previously, my awareness was slow and dull, the disappearance of objects was slow so I could see the beginning of the appearance of objects very well. (Now that yogi's knowing mind was quick and accordingly the disappearance of the object was quick, yogi would not see the beginning of appearance of objects. Instead yogi see only the ending and the dissolution of objects).
+**A:**  Previously, my awareness was slow and dull, the disappearance of objects was slow so I could see the beginning of the appearance of objects very well. *(Now that yogi's knowing mind was quick and accordingly the disappearance of the object was quick, yogi would not see the beginning of appearance of objects. Instead yogi see only the ending and the dissolution of objects.)*
 
 In the beginning if yogi could not recognise the name and shape of the objects, a fixed stable concentration could not be established.
 
@@ -1609,7 +1609,7 @@ SOME DESCRIBED THE BENDING PROCESS THUS:-
 
 **A:**  There were series of separate bendings and disappeared.
 
-**A:**  I noted the intention to bend as "intending" "intending", then I noticed the intending mind disappeared bit by bit. After noting about five or six times, the intending mind disappeared completely and I did not have to bend at all. If and when I actually bent, the separate bendings disappeared swiftly. (The same description was made for the stretching process).
+**A:**  I noted the intention to bend as "intending" "intending", then I noticed the intending mind disappeared bit by bit. After noting about five or six times, the intending mind disappeared completely and I did not have to bend at all. If and when I actually bent, the separate bendings disappeared swiftly. *(The same description was made for the stretching process.)*
 
 **A:**  Whatever object it may be each one disappeared distinctly. The noting mind and the object were always pairing off and disappearing together.
 
@@ -1639,7 +1639,7 @@ Here the yogi knew about the disappearance of object and mind at each noting. Th
 
 The various objects and the noting mind. paired off and disappeared. The yogi could note continuously and each note was swift and accurate. Then some yogi said:-
 
-**A:**  Everytime I note I just saw the ending and disappearance of the objects, so I felt frightened. (The trend of frightened thoughts were noticed). But I was not frightened like I saw a ghost, some wild animals or any weapons. I could not say I was frightened of any particular thing but I knew there was fear in my mind.
+**A:**  Everytime I note I just saw the ending and disappearance of the objects, so I felt frightened. *(The trend of frightened thoughts was noticed.)* But I was not frightened like I saw a ghost, some wild animals or any weapons. I could not say I was frightened of any particular thing but I knew there was fear in my mind.
 
 **A:**  I could not tell exactly what I am afraid of but I was frightened.
 
@@ -1687,7 +1687,7 @@ When yogi noted yogi only saw the end and the disappearance of objects, thus the
 
 **A:**  As long as these phenomena existed I noted and knew they were not good. It would be better if all of them had perished.
 
-**A:**  In human world because of these things life was miserable. The same applies true for celestial-world and the BRAHMA WORLD. None of the worlds was good. It would be better if these miserable phenomena had not existed. (Here the teacher should encourage the yogi that the mind which thought and knew that all was miserable should be noted.)
+**A:**  In human world because of these things life was miserable. The same applies true for celestial-world and the BRAHMA WORLD. None of the worlds was good. It would be better if these miserable phenomena had not existed. *(Here the teacher should encourage the yogi that the mind which thought and knew that all was miserable should be noted.)*
 
 Summary
 --------
@@ -1752,7 +1752,7 @@ After proressing from PACCAKA NANA TO ANWA-YA NANA the yogi is said to have atta
 
 **A:**  The noting was very quick. The noting speed was so good, it
 
-was like running with high speed. It was as if the body would run too. *(The yogi would describe the experience as being a good one)*.
+was like running with high speed. It was as if the body would run too. *(The yogi would describe the experience as being a good one.)*
 
 .. admonition:: Comment
 
@@ -1920,9 +1920,9 @@ When the Patisankha Nana was matured, the notings seemed to be Like running with
 
 1. **A:**  Now I do not think the objects were good to note as I did before. I do not think they are awful too. I was neither happy nor bored with my noting. The noting was very light, swift and good. *(Yogi was not afraid of Sankhara objects nor liked them. Yogi had a middle-way, balanced outlook on Sanlakara.)*
 
-2. **A:**  When I was sitting or lying down, I noted, I just had to sit or lie down and the noting was spontaneous. I did not have to make a special effort and still it was a very good noting. It was like driving a cart with two strong bullocks. I did not have to make an effort, the noting was done by itself. Now I only have to note five or ten times in the beginning, later the noting became automatic. I did not have to be careful, it was a very comfortable and good contemplation. *(Yogi reflected on the mind that contemplated and analysed on the nature of Sankhara and had an indifferent outlook)*.
+2. **A:**  When I was sitting or lying down, I noted, I just had to sit or lie down and the noting was spontaneous. I did not have to make a special effort and still it was a very good noting. It was like driving a cart with two strong bullocks. I did not have to make an effort, the noting was done by itself. Now I only have to note five or ten times in the beginning, later the noting became automatic. I did not have to be careful, it was a very comfortable and good contemplation. *(Yogi reflected on the mind that contemplated and analysed on the nature of Sankhara and had an indifferent outlook.)*
 
-3. **A:**  Now no matter how long I sat, there were no pain, ache, heat, etc. in my hands, legs and body. I stayed very still and I could contemplate nicely. Only after noting a long time, I rested for a while. When I went back to noting, I could note without difficulty. After about four, five or ten notings, the noting speed gathered momentum as before. I think now if I contemplated in either posture, I could stay on the whole day or night without moving or changing posture. There was no question of ache, pain, heat etc., I could note in continuity, very still and with good speed. *(Yogi was explaining about the characteristic of SANKHA RUPEKKHA NANA and the stationary nature of mind)*. [:89:]
+3. **A:**  Now no matter how long I sat, there were no pain, ache, heat, etc. in my hands, legs and body. I stayed very still and I could contemplate nicely. Only after noting a long time, I rested for a while. When I went back to noting, I could note without difficulty. After about four, five or ten notings, the noting speed gathered momentum as before. I think now if I contemplated in either posture, I could stay on the whole day or night without moving or changing posture. There was no question of ache, pain, heat etc., I could note in continuity, very still and with good speed. *(Yogi was explaining about the characteristic of SANKHA RUPEKKHA NANA and the stationary nature of mind.)* [:89:]
 
 4. **A:**  I did not have to note with special effort. The noting knowing mind was waiting to catch the objects without missing any, the noting was spontaneous.
 
@@ -1943,20 +1943,21 @@ When the Patisankha Nana was matured, the notings seemed to be Like running with
        The yogi's Sankharupekkha Nana got more and more refined. Also more and more delicate as the contemplation went on.
 
 
+.. admonition:: Comment
 
-(1) Like the statements in No. 1, 2, 3, 4 & 5, the yogi was neither frightened nor pleased with the objects and the noting mind. Yogi [:90:] had ignored them spontaneously.
+   (1) Like the statements in No. 3, 4, 5, 6 & 7, the yogi was neither frightened nor pleased with the objects and the noting mind. Yogi [:90:] had ignored them spontaneously.
 
-(2) The yogi did not have to worry to make a special effort in noting. It was automatically good.
+   (2) The yogi did not have to worry to make a special effort in noting. It was automatically good.
 
-(3) The yogi could bear the unpleasant visions and the undesirable vedanas and mostly free of Dukkha vedanas.
+   (3) The yogi could bear the unpleasant visions and the undesirable vedanas and mostly free of Dukkha vedanas.
 
-(4) The ability to contemplate in-any posture for as long as 2 or 3 hours without changing posture.
+   (4) The ability to contemplate in-any posture for as long as 2 or 3 hours without changing posture.
 
-(5) The yogi did not want to think of other independent objects for a long time. When the noting was good the yogi could not even send. the mind elsewhere. The yogi could not note on the general objects. The yogi could note only on a few usual objects, staying very still.
+   (5) The yogi did not want to think of other independent objects for a long time. When the noting was good the yogi could not even send. the mind elsewhere. The yogi could not note on the general objects. The yogi could note only on a few usual objects, staying very still.
 
-(6) The longer the contemplation the more gentle and delicate the objects and the noting mind became.
+   (6) The longer the contemplation the more gentle and delicate the objects and the noting mind became.
 
-Once the yogi had experienced the above characteristics, yogi had fully achieved the Sankha Rupekkha Nana. If the yogi did not express those facts, the teacher should ask test questions.
+   Once the yogi had experienced the above characteristics, yogi had fully achieved the Sankha Rupekkha Nana. If the yogi did not express those facts, the teacher should ask test questions.
 
 **A:**  The risings and fallings gradually became smaller and smaller. Later on they disappeared completely and I felt like a vacuum, clean and clear. It was a very peaceful and pleasant feeling. There was only the ultra-clear mind left. I had nothing to note so I just noted "knowing" "knowing". At that time of contemplation I felt very wonderful.
 
@@ -1988,9 +1989,9 @@ I was so pleased with my good noting that I rested and noted again. When the not
 
 
 
-**A:**  While my noting was good and swift, sometimes it was very subtle and then it became very delicate and seemed as if the continuity was cut off gently. After that I went on noting and it was still good. (The unconsciousness could be associated with indifference or sloth and torpor).
+**A:**  While my noting was good and swift, sometimes it was very subtle and then it became very delicate and seemed as if the continuity was cut off gently. After that I went on noting and it was still good. *(The unconsciousness could be associated with indifference or sloth and torpor.)*
 
-**A:**  There was nothing special in my noting. Whenever I noted it was good. Nothing better, nothing worse. After noting for quite a long time, I was momentarily unconscious when I went on noting. It was still good. Sometimes I really fell asleep. When I remembered to note, the noting was good as usual. Later on I went back to sleep. It was alternating like that all the time. (Because of slackened aim and effort, sloth and torpor became dominant. So warn yogi). [:92:]
+**A:**  There was nothing special in my noting. Whenever I noted it was good. Nothing better, nothing worse. After noting for quite a long time, I was momentarily unconscious when I went on noting. It was still good. Sometimes I really fell asleep. When I remembered to note, the noting was good as usual. Later on I went back to sleep. It was alternating like that all the time. *(Because of slackened aim and effort, sloth and torpor became dominant. So warn yogi.)* [:92:]
 
 .. admonition:: Warning
 
@@ -2115,13 +2116,11 @@ Only a few yogis could not describe the especially swift and the distinct condit
 
     The yogi became aware of the impermanence, the ending, the disappearance and the dissolution of ANICCA LEKHANA (The sign of impermanence).
 
+    The yogi knew about the miserable, torturing, uncomfortable, unpleasant, awful conditions which are the sign of suffering, DUKKHA LEKHANA.
 
+    The yogi came to know that nothing happened as one wished. conditions were uncontrollable, arising and passing away by themselves, devoid of self-entity and that nothing but just phenomena of Dhamma.
 
-The yogi knew about the miserable, torturing, uncomfortable, unpleasant, awful conditions which are the sign of suffering, DUKKHA LEKHANA.
-
-The yogi came to know that nothing happened as one wished. conditions were uncontrollable, arising and passing away by themselves, devoid of self-entity and that nothing but just phenomena of Dhamma.
-
-The yogi would describe how he noted the above signs of ANATTA LEKHANA two or three times or more than that. The yogis noting knowing mind was very extraordinary and very quick.
+    The yogi would describe how he noted the above signs of ANATTA LEKHANA two or three times or more than that. The yogis noting knowing mind was very extraordinary and very quick.
 
 THEN THE YOGIS WOULD SAY:
 
@@ -2147,7 +2146,7 @@ THEN THE YOGIS WOULD SAY:
 
 **A:**  The notings were cut off abruptly.
 
-**A:**  I knew something extraordinary had happened and I thought I was free of VICCIKICCA. (Doubting mind) [:98:]
+**A:**  I knew something extraordinary had happened and I thought I was free of VICCIKICCA (Doubting mind). [:98:]
 
 **A:**  I knew the noting mind and the objects were extinguished. I thought this might be the realization of Nibbana.
 
@@ -2186,11 +2185,9 @@ The yogi would answer just as they thought, "I did not know anything at that mom
 
     Here the yogi was likely to think he did not know anything, because:
 
+    a. The subtle Dhamma of Nama (mind) could become evident only if the corresponding object is evident.
 
-
-a. The subtle Dhamma of Nama (mind) could become evident only if the corresponding object is evident.
-
-b. If the object is not evident, the Dhamma of noting - knowing mind will not be evident. The Nibbana object is the formless, body-less phenomena.
+    b. If the object is not evident, the Dhamma of noting - knowing mind will not be evident. The Nibbana object is the formless, body-less phenomena.
 
 It is the sort of peaceful bliss SANTI SUKHA, which was the extinction of SANKHARA SUFFERING.
 
@@ -2338,7 +2335,7 @@ First contemplate to reach to the discontinued noting stage very often. If there
 
 .. admonition:: Comment
 
-    If the power of nana was not strong enough, it might not be reached within one or two days. Previously, after noting about 4 to 10 times the yogi had always reached to the sublime state of Sankharupekkha Nana. But now even after one or two hours, it is not possible to reach to that stage. The yogi had to gather momentum starting from the Uddayabaya Nana level. The nana was maturing slowly step by step. Therefore the yogi had to note in a quite laxed manner and note rex???d like in the early stages of contemplation. Some notings were not coinciding with the object. Sometimes the yogi's mind wandered. There could be vedana such as pain, there could be bright lights and visions.
+    If the power of nana was not strong enough, it might not be reached within one or two days. Previously, after noting about 4 to 10 times the yogi had always reached to the sublime state of Sankharupekkha Nana. But now even after one or two hours, it is not possible to reach to that stage. The yogi had to gather momentum starting from the Uddayabaya Nana level. The nana was maturing slowly step by step. Therefore the yogi had to note in a quite laxed manner and note relaxed[? illegible] like in the early stages of contemplation. Some notings were not coinciding with the object. Sometimes the yogi's mind wandered. There could be vedana such as pain, there could be bright lights and visions.
 
 
 
