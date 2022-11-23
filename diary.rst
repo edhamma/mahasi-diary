@@ -215,9 +215,7 @@ Some would say: I kept on noting one thought after another, so I could not note 
 
 **Q:**  Did you note on the nature of bodily sensations, e.g., irritation. pain, ache, heat, cold, etc.
 
-**A:**  There were no irritation, pain, ache, heat or cold.
-
-(This was because the yogi's mindfulness, concentration and knowledge was not mature enough to he conscious about the feelings.) [:10:]
+**A:**  There were no irritation, pain, ache, heat or cold. *(This was because the yogi's mindfulness, concentration and knowledge was not mature enough to he conscious about the feelings.)* [:10:]
 
 **A:**  Sometimes there was slight irritation. pain, ache, heat and cold, but I could rarely note them. Sometimes I could not note them at all.
 
@@ -504,9 +502,7 @@ Summary
 
 Only the objects noted and the noting mind were sticking together in pairs. Apart from the object:and rioting mind, there was nothing else such as a being or a person. If the yogi could realize this clearly and distinctively while he was noting, the yogi would be pleased about his knowledge which could be called as NAMA RUPA PARICCHEDA NANA. (The knowledge that distinguishes between mind and matter.)
 
-The yogi who had fully experienced this nana would be able to explain clearly in his own words to indicate his knowledge. Ask appropriate questions to test the yogis who could not explain what they knew.
-
-[:22:]
+The yogi who had fully experienced this nana would be able to explain clearly in his own words to indicate his knowledge. Ask appropriate questions to test the yogis who could not explain what they knew. [:22:]
 
 *Paccaya pariggaha nana*
 ========================
@@ -1945,7 +1941,7 @@ When the Patisankha Nana was matured, the notings seemed to be Like running with
 
 .. admonition:: Comment
 
-   (1) Like the statements in No. 3, 4, 5, 6 & 7, the yogi was neither frightened nor pleased with the objects and the noting mind. Yogi [:90:] had ignored them spontaneously.
+   (1) Like the statements in No. 2, 3, 4, 5 & 6, the yogi was neither frightened nor pleased with the objects and the noting mind. Yogi [:90:] had ignored them spontaneously.
 
    (2) The yogi did not have to worry to make a special effort in noting. It was automatically good.
 
@@ -2122,7 +2118,7 @@ Only a few yogis could not describe the especially swift and the distinct condit
 
     The yogi would describe how he noted the above signs of ANATTA LEKHANA two or three times or more than that. The yogis noting knowing mind was very extraordinary and very quick.
 
-THEN THE YOGIS WOULD SAY:
+Then the yogis would say:
 
 **A:**  Suddenly the objects and the noting-knowing mind were extinguished.
 
@@ -2150,13 +2146,17 @@ THEN THE YOGIS WOULD SAY:
 
 **A:**  I knew the noting mind and the objects were extinguished. I thought this might be the realization of Nibbana.
 
-Summary: The yogis would describe their experiences just as they understood. In fact all their descriptions indicate how their noting mind and the notable objects had come to an end how all the SANKHARA reached a finale and how that extinguishment of Sankhara led the .yogis to a condition of peaceful bliss.
+Summary: The yogis would describe their experiences just as they understood. In fact all their descriptions indicate how their noting mind and the notable objects had come to an end how all the SANKHARA reached a finale and how that extinguishment of Sankhara led the yogis to a condition of peaceful bliss.
 
-THE TEACHER SHOULD ASK THE YOGI THUS:
+The teacher should ask the yogi thus:
 
-At that moment what did yogi know, how was the knowing mind, where has it gone. (Try to find out whether there was any knowing mind or thinking mind).
+**Q:** At that moment what did yogi know, how was the knowing mind, where has it gone. (Try to find out whether there was any knowing mind or thinking mind).
 
-Summary: When the yogi's Sankharupekkha Nana reached to a highest point of maturity, noting became very energetic and fast two or three times. But yogi was not making a special effort. The knowledge that occurs rapidly two or three times is called VUTTHANAGAMINI. Out of those two or three times the one that occurs last is called ANULOMA NANA (The insight that ascends towards NIBBANA).
+
+Summary
+--------
+
+When the yogi's Sankharupekkha Nana reached to a highest point of maturity, noting became very energetic and fast two or three times. But yogi was not making a special effort. The knowledge that occurs rapidly two or three times is called VUTTHANAGAMINI. Out of those two or three times the one that occurs last is called ANULOMA NANA (The insight that ascends towards NIBBANA).
 
 *Gotrabhu nana*
 ===============
@@ -2299,7 +2299,7 @@ In that case the yogi should know that his Dhamma was not like what had been des
 
 
 Three Types of Sotapanna
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Those who admitted as Sotapanna could be categorised as follows:-
 
@@ -2329,7 +2329,8 @@ If the yogi could contemplate many more days, do not give him discourse on progr
 
 
 
-FOR EXAMPLE : THREE-DAY RESOLUTION PERIOD
+For example: three-day resolution period
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 First contemplate to reach to the discontinued noting stage very often. If there were about 3 to five instances in one sitting, then one should make a resolution that "From now on within three days I do not wish to reach to the effect of KUSALA DHAMMA already achieved. I wish to reach to the higher KUSALA SPECIAL DHAMMA which I had not attained before. Then go on noting as usual; during contemplation the yogi might think, "Previously I used to reach to the stage where the noting was cut off 4 to 10 times within an hour. But now I could not even reach once."
 
