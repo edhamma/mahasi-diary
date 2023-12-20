@@ -1,0 +1,494 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="mahasi-meditation-teachers-diary"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Meditation Teacher&#x27;s Diary (or) Records</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Meditation Teacher’s Diary (or) Records</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Venerable Mahasi Sayadaw’s introduction</text>
+      </navLabel>
+      <content src="diary.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Venerable Mahasi Sayadaw’s introduction</text>
+        </navLabel>
+        <content src="diary.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Special note</text>
+        </navLabel>
+        <content src="diary.xhtml#special-note" />  
+      </navPoint>
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>Caution</text>
+        </navLabel>
+        <content src="diary.xhtml#caution" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint6" playOrder="5">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="diary.xhtml#introduction" />  
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>Introduction</text>
+        </navLabel>
+        <content src="diary.xhtml#introduction" />  
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>Three types of Yogis</text>
+        </navLabel>
+        <content src="diary.xhtml#three-types-of-yogis" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint9" playOrder="7">
+      <navLabel>
+        <text>Nama-rupa pariccheda nana</text>
+      </navLabel>
+      <content src="diary.xhtml#nama-rupa-pariccheda-nana" />  
+      <navPoint id="navPoint10" playOrder="7">
+        <navLabel>
+          <text>Nama-rupa pariccheda nana</text>
+        </navLabel>
+        <content src="diary.xhtml#nama-rupa-pariccheda-nana" />  
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="8">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#summary" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint12" playOrder="9">
+      <navLabel>
+        <text>Paccaya pariggaha nana</text>
+      </navLabel>
+      <content src="diary.xhtml#paccaya-pariggaha-nana" />  
+      <navPoint id="navPoint13" playOrder="9">
+        <navLabel>
+          <text>Paccaya pariggaha nana</text>
+        </navLabel>
+        <content src="diary.xhtml#paccaya-pariggaha-nana" />  
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="10">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id1" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint15" playOrder="11">
+      <navLabel>
+        <text>Sammasana nana</text>
+      </navLabel>
+      <content src="diary.xhtml#sammasana-nana" />  
+      <navPoint id="navPoint16" playOrder="11">
+        <navLabel>
+          <text>Sammasana nana</text>
+        </navLabel>
+        <content src="diary.xhtml#sammasana-nana" />  
+      </navPoint>
+      <navPoint id="navPoint17" playOrder="12">
+        <navLabel>
+          <text>On walking meditation</text>
+        </navLabel>
+        <content src="diary.xhtml#on-walking-meditation" />  
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="13">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id2" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint19" playOrder="14">
+      <navLabel>
+        <text>Udayabbaya nana</text>
+      </navLabel>
+      <content src="diary.xhtml#udayabbaya-nana" />  
+      <navPoint id="navPoint20" playOrder="14">
+        <navLabel>
+          <text>Udayabbaya nana</text>
+        </navLabel>
+        <content src="diary.xhtml#udayabbaya-nana" />  
+      </navPoint>
+      <navPoint id="navPoint21" playOrder="15">
+        <navLabel>
+          <text>Nana</text>
+        </navLabel>
+        <content src="diary.xhtml#nana" />  
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="16">
+        <navLabel>
+          <text>Discovering about the noting and knowing mind</text>
+        </navLabel>
+        <content src="diary.xhtml#discovering-about-the-noting-and-knowing-mind" />  
+      </navPoint>
+      <navPoint id="navPoint23" playOrder="17">
+        <navLabel>
+          <text>Obhasa uppakilasa</text>
+        </navLabel>
+        <content src="diary.xhtml#obhasa-uppakilasa" />  
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="18">
+        <navLabel>
+          <text>Piti (joy)</text>
+        </navLabel>
+        <content src="diary.xhtml#piti-joy" />  
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="19">
+        <navLabel>
+          <text>Passadhi (tranquility)</text>
+        </navLabel>
+        <content src="diary.xhtml#passadhi-tranquility" />  
+        <navPoint id="navPoint26" playOrder="19">
+          <navLabel>
+            <text>Passadhi (tranquility)</text>
+          </navLabel>
+          <content src="diary.xhtml#passadhi-tranquility" />  
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="20">
+          <navLabel>
+            <text>Lahuta (lightness of mind)</text>
+          </navLabel>
+          <content src="diary.xhtml#lahuta-lightness-of-mind" />  
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="21">
+          <navLabel>
+            <text>Muduta (pliancy of mind)</text>
+          </navLabel>
+          <content src="diary.xhtml#muduta-pliancy-of-mind" />  
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="22">
+          <navLabel>
+            <text>Kammannatta (workableness or serviceableness)</text>
+          </navLabel>
+          <content src="diary.xhtml#kammannatta-workableness-or-serviceableness" />  
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="23">
+          <navLabel>
+            <text>Pagunnata (proficiency or skilfulness)</text>
+          </navLabel>
+          <content src="diary.xhtml#pagunnata-proficiency-or-skilfulness" />  
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="24">
+          <navLabel>
+            <text>Umukata (straightness or rectitude)</text>
+          </navLabel>
+          <content src="diary.xhtml#umukata-straightness-or-rectitude" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint32" playOrder="25">
+        <navLabel>
+          <text>Sukha</text>
+        </navLabel>
+        <content src="diary.xhtml#sukha" />  
+      </navPoint>
+      <navPoint id="navPoint33" playOrder="26">
+        <navLabel>
+          <text>Addhimokkha saddha (determined faith)</text>
+        </navLabel>
+        <content src="diary.xhtml#addhimokkha-saddha-determined-faith" />  
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="27">
+        <navLabel>
+          <text>Paggama viriya (ascending, increasing effort)</text>
+        </navLabel>
+        <content src="diary.xhtml#paggama-viriya-ascending-increasing-effort" />  
+      </navPoint>
+      <navPoint id="navPoint35" playOrder="28">
+        <navLabel>
+          <text>Uppekkha (equanimity)</text>
+        </navLabel>
+        <content src="diary.xhtml#uppekkha-equanimity" />  
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="29">
+        <navLabel>
+          <text>Nikanti</text>
+        </navLabel>
+        <content src="diary.xhtml#nikanti" />  
+      </navPoint>
+      <navPoint id="navPoint37" playOrder="30">
+        <navLabel>
+          <text>Ten Uppakilasas</text>
+        </navLabel>
+        <content src="diary.xhtml#ten-uppakilasas" />  
+      </navPoint>
+      <navPoint id="navPoint38" playOrder="31">
+        <navLabel>
+          <text>How to lecture</text>
+        </navLabel>
+        <content src="diary.xhtml#how-to-lecture" />  
+      </navPoint>
+      <navPoint id="navPoint39" playOrder="32">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id3" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint40" playOrder="33">
+      <navLabel>
+        <text>Bhanga nana</text>
+      </navLabel>
+      <content src="diary.xhtml#bhanga-nana" />  
+      <navPoint id="navPoint41" playOrder="33">
+        <navLabel>
+          <text>Bhanga nana</text>
+        </navLabel>
+        <content src="diary.xhtml#bhanga-nana" />  
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="34">
+        <navLabel>
+          <text>Description of the passing away phenomena</text>
+        </navLabel>
+        <content src="diary.xhtml#description-of-the-passing-away-phenomena" />  
+      </navPoint>
+      <navPoint id="navPoint43" playOrder="35">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id4" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint44" playOrder="36">
+      <navLabel>
+        <text>Bhaya nana</text>
+      </navLabel>
+      <content src="diary.xhtml#bhaya-nana" />  
+      <navPoint id="navPoint45" playOrder="36">
+        <navLabel>
+          <text>Bhaya nana</text>
+        </navLabel>
+        <content src="diary.xhtml#bhaya-nana" />  
+      </navPoint>
+      <navPoint id="navPoint46" playOrder="37">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id5" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint47" playOrder="38">
+      <navLabel>
+        <text>Adinava nana</text>
+      </navLabel>
+      <content src="diary.xhtml#adinava-nana" />  
+      <navPoint id="navPoint48" playOrder="38">
+        <navLabel>
+          <text>Adinava nana</text>
+        </navLabel>
+        <content src="diary.xhtml#adinava-nana" />  
+      </navPoint>
+      <navPoint id="navPoint49" playOrder="39">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id6" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint50" playOrder="40">
+      <navLabel>
+        <text>Nibida nana</text>
+      </navLabel>
+      <content src="diary.xhtml#nibida-nana" />  
+      <navPoint id="navPoint51" playOrder="40">
+        <navLabel>
+          <text>Nibida nana</text>
+        </navLabel>
+        <content src="diary.xhtml#nibida-nana" />  
+      </navPoint>
+      <navPoint id="navPoint52" playOrder="41">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id7" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint53" playOrder="42">
+      <navLabel>
+        <text>Muncitu kamyata nana</text>
+      </navLabel>
+      <content src="diary.xhtml#muncitu-kamyata-nana" />  
+      <navPoint id="navPoint54" playOrder="42">
+        <navLabel>
+          <text>Muncitu kamyata nana</text>
+        </navLabel>
+        <content src="diary.xhtml#muncitu-kamyata-nana" />  
+      </navPoint>
+      <navPoint id="navPoint55" playOrder="43">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id8" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint56" playOrder="44">
+      <navLabel>
+        <text>Patisankha nana</text>
+      </navLabel>
+      <content src="diary.xhtml#patisankha-nana" />  
+      <navPoint id="navPoint57" playOrder="44">
+        <navLabel>
+          <text>Patisankha nana</text>
+        </navLabel>
+        <content src="diary.xhtml#patisankha-nana" />  
+      </navPoint>
+      <navPoint id="navPoint58" playOrder="45">
+        <navLabel>
+          <text>The distinguishing characters</text>
+        </navLabel>
+        <content src="diary.xhtml#the-distinguishing-characters" />  
+      </navPoint>
+      <navPoint id="navPoint59" playOrder="46">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id9" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint60" playOrder="47">
+      <navLabel>
+        <text>Sankha rupekkha nana</text>
+      </navLabel>
+      <content src="diary.xhtml#sankha-rupekkha-nana" />  
+      <navPoint id="navPoint61" playOrder="47">
+        <navLabel>
+          <text>Sankha rupekkha nana</text>
+        </navLabel>
+        <content src="diary.xhtml#sankha-rupekkha-nana" />  
+      </navPoint>
+      <navPoint id="navPoint62" playOrder="48">
+        <navLabel>
+          <text>Special notes</text>
+        </navLabel>
+        <content src="diary.xhtml#special-notes" />  
+      </navPoint>
+      <navPoint id="navPoint63" playOrder="49">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id10" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint64" playOrder="50">
+      <navLabel>
+        <text>Anuloma nana</text>
+      </navLabel>
+      <content src="diary.xhtml#anuloma-nana" />  
+      <navPoint id="navPoint65" playOrder="50">
+        <navLabel>
+          <text>Anuloma nana</text>
+        </navLabel>
+        <content src="diary.xhtml#anuloma-nana" />  
+      </navPoint>
+      <navPoint id="navPoint66" playOrder="51">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id11" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint67" playOrder="52">
+      <navLabel>
+        <text>Gotrabhu nana</text>
+      </navLabel>
+      <content src="diary.xhtml#gotrabhu-nana" />  
+    </navPoint>
+    <navPoint id="navPoint68" playOrder="53">
+      <navLabel>
+        <text>Magga nana</text>
+      </navLabel>
+      <content src="diary.xhtml#magga-nana" />  
+    </navPoint>
+    <navPoint id="navPoint69" playOrder="54">
+      <navLabel>
+        <text>Phala nana</text>
+      </navLabel>
+      <content src="diary.xhtml#phala-nana" />  
+    </navPoint>
+    <navPoint id="navPoint70" playOrder="55">
+      <navLabel>
+        <text>Ariya bhumi</text>
+      </navLabel>
+      <content src="diary.xhtml#ariya-bhumi" />  
+      <navPoint id="navPoint71" playOrder="55">
+        <navLabel>
+          <text>Ariya bhumi</text>
+        </navLabel>
+        <content src="diary.xhtml#ariya-bhumi" />  
+      </navPoint>
+      <navPoint id="navPoint72" playOrder="56">
+        <navLabel>
+          <text>How to contemplate so as to reach quickly to the state of unconsciousness</text>
+        </navLabel>
+        <content src="diary.xhtml#how-to-contemplate-so-as-to-reach-quickly-to-the-state-of-unconsciousness" />  
+      </navPoint>
+      <navPoint id="navPoint73" playOrder="57">
+        <navLabel>
+          <text>How to to contemplate in that condition for a long time</text>
+        </navLabel>
+        <content src="diary.xhtml#how-to-to-contemplate-in-that-condition-for-a-long-time" />  
+        <navPoint id="navPoint74" playOrder="57">
+          <navLabel>
+            <text>How to to contemplate in that condition for a long time</text>
+          </navLabel>
+          <content src="diary.xhtml#how-to-to-contemplate-in-that-condition-for-a-long-time" />  
+        </navPoint>
+        <navPoint id="navPoint75" playOrder="58">
+          <navLabel>
+            <text>Three Types of Sotapanna</text>
+          </navLabel>
+          <content src="diary.xhtml#three-types-of-sotapanna" />  
+        </navPoint>
+        <navPoint id="navPoint76" playOrder="59">
+          <navLabel>
+            <text>For example: three-day resolution period</text>
+          </navLabel>
+          <content src="diary.xhtml#for-example-three-day-resolution-period" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint77" playOrder="60">
+      <navLabel>
+        <text>Special note</text>
+      </navLabel>
+      <content src="diary.xhtml#id12" />  
+      <navPoint id="navPoint78" playOrder="60">
+        <navLabel>
+          <text>Special note</text>
+        </navLabel>
+        <content src="diary.xhtml#id12" />  
+      </navPoint>
+      <navPoint id="navPoint79" playOrder="61">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="diary.xhtml#id13" />  
+      </navPoint>
+      <navPoint id="navPoint80" playOrder="62">
+        <navLabel>
+          <text>4 types of Jhayi-persons</text>
+        </navLabel>
+        <content src="diary.xhtml#types-of-jhayi-persons" />  
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
