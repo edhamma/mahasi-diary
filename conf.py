@@ -148,7 +148,7 @@ epub_language='en'
 epub_basename='mahasi-meditation-teachers-diary'
 epub_use_index=False
 epub_scheme='URL'
-epub_identifier = 'https://eudoxos.github.io/mahasi-diary/'
+epub_identifier = 'https://edhamma.github.io/mahasi-diary/'
 # A unique identification for the text.
 epub_uid = 'mahasi-meditation-teachers-diary'
 

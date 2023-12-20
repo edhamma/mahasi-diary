@@ -6,7 +6,7 @@ Meditation Teacher's Diary (or) Records
 
    by **Mahasi Sayadaw, Saya Kyan, Saya Kywet**
 
-.. note:: This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/mahasi-diary>`__.
+.. note:: This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/edhamma/mahasi-diary>`__.
 
 .. admonition:: Electronic edition notice
 
